@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c4f94717-3255-4b2c-a135-3fa248ca097e" name="promaxilaser" url="http://191.252.95.82">
+        <fileTransfer host="191.252.95.82" port="21" password="dfcbdfcddfcfdfc4dfc9dfc3dfcbdfc4dfcfdfc5dfd9dfc5dfdfdfc6df9bdf98df99df89" username="promaxilaser">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
