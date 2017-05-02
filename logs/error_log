@@ -1,0 +1,2 @@
+[Tue May 02 08:21:59.841730 2017] [ssl:warn] [pid 12318:tid 140317562251392] AH01909: RSA certificate configured for promaxilaser.com.br:443 does NOT include an ID which matches the server name
+[Tue May 02 08:22:00.366347 2017] [ssl:warn] [pid 12318:tid 140317562251392] AH01909: RSA certificate configured for promaxilaser.com.br:443 does NOT include an ID which matches the server name
